@@ -1,0 +1,7 @@
+you wanna output stuff to your computer?
+youre in the right place
+
+1: connect your raspberry pi pico to your computer
+2: install a serial port reader program, or use the IDE's serial monitor
+
+thats all!
