@@ -1,0 +1,10 @@
+so, you wanna output to your phone huh?
+well, then youre in the right place
+this isnt gonna be detailed untill i completelly nail it down
+its simple though
+
+!!THIS REQUIRES AN ANDROID PHONE!!
+
+1: splice a usb cable and connect the serial wires to the raspberry pi pico.
+2: install a serial reader app on your phone
+3: if it lets you send input too, you can controll the board using the app
