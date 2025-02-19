@@ -1,7 +1,6 @@
 #PIgrade
-this is in no way affiliated with the "pigrade-pro" repo 
+this is in no way affiliated with the "pigrade-pro" repo thingy
 
-thingy
 developement starts in march
 
 it can only display information using screens if:
