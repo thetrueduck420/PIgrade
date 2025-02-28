@@ -49,3 +49,5 @@ it doesnt matter, i just wanted to say it
 
 anyways, this is coming out soon enough
 im getting very close to a demo
+
+current status: im remaking the whole OS, along with the second stage bootloader, this is for optimization and ease of use, its not gonna take long
