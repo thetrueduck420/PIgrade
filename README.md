@@ -1,5 +1,6 @@
-#PIgrade
 this is in no way affiliated with the "pigrade-pro" repo thingy
+i dont even know what pigrade pro is
+no offense of course, it seems pretty cool
 
 developement started in 25.02.2025
 
@@ -45,3 +46,6 @@ i might also work on real time task processing, but i dont know
 so, sit tight, and lets make an operating system!
 on a side note, my stomach hurts
 it doesnt matter, i just wanted to say it
+
+anyways, this is coming out soon enough
+im getting very close to a demo
