@@ -1,4 +1,4 @@
-sthis is in no way affiliated with the "pigrade-pro" repo thingy
+this is in no way affiliated with the "pigrade-pro" repo thingy
 i dont even know what pigrade pro is
 no offense of course, it seems pretty cool
 
@@ -23,7 +23,7 @@ cause i LOVE ms-dos
 
 this project will also work on arduino
 
-this will use BETTERFS, provided by the Piboots bootloader (you can find the repo on my account)
+this will use BETTERFS, provided by the HexaBoot bootloader (you can find the repo on my account)
 
 this isnt THAT optimized, but im one teenager,i need to make a BASIC interpreter my own assembly language, an assembler, and a way to compile basic cause its fun
 
@@ -37,7 +37,7 @@ its pretty much meant for putting linux on small things or using as a CPU that c
 for example, i plan to gut a broken phone, replace the screen and replace its insides with the pico
 
 
-in order to add it to PIboots, you must folloe some instructions, but theyre in the code as comments
+in order to add it to HexaBoot, you must follow some instructions, but theyre in the code as comments
 
 i might also work on real time task processing, but i dont know
 
@@ -48,4 +48,4 @@ it doesnt matter, i just wanted to say it
 anyways, this is coming out soon enough
 im getting very close to a demo
 
-current status: im remaking the whole OS, along with PIboots, this is for optimization and ease of use, its not gonna take long
+current status: im remaking the whole OS, along with HexaBoot, this is for optimization and ease of use, its not gonna take long
